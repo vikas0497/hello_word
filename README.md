@@ -1,1 +1,2 @@
-# hello_word
+# hello world
+This is for learning pupose
